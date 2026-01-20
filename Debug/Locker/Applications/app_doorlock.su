@@ -1,0 +1,4 @@
+../Locker/Applications/app_doorlock.c:178:13:App_UpdateIO	8	static
+../Locker/Applications/app_doorlock.c:39:6:App_Init	8	static
+../Locker/Applications/app_doorlock.c:44:6:App_SignalLockTrigger	0	static
+../Locker/Applications/app_doorlock.c:48:6:App_Process	64	static
