@@ -1,0 +1,28 @@
+warning! these frames only work for prototype version
+
+lock-on the door
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 08 F6 9E FF BA
+
+turn on red led
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 01 36 98 FF BA
+
+turn on green led
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 02 76 99 FF BA
+
+turn on blue led
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 04 F6 9B FF BA
+
+turn on red-green-blue led + lock-off the door
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 07 B6 9A FF BA
+
+turn on red-green-blue led + lock-on the door
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 0F B7 5C FF BA
+
+lock-on the door + turn on green led
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 0A 77 5F FF BA
+
+lock-off the door + turn off all led
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 14 01 01 00 F7 58 FF BA
+
+read door sensor
+AB FF 15 00 26 00 0D 57 34 47 39 32 34 20 15 02 01 00 06 A4 FF BA

@@ -1,0 +1,4 @@
+../Locker/Services/protocol.c:10:10:Protocol_CalcCRC	20	static
+../Locker/Services/protocol.c:26:6:Protocol_IsHeadTailCorrect	0	static
+../Locker/Services/protocol.c:32:19:Protocol_ParseFrame	32	static
+../Locker/Services/protocol.c:64:9:Protocol_BuildPacket	24	static

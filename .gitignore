@@ -1,0 +1,35 @@
+# --- Build Outputs ---
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# --- IDE Specific (STM32CubeIDE / Eclipse) ---
+.settings/
+.project
+.cproject
+# Catatan: Jika Anda ingin orang lain bisa langsung import project, 
+# biarkan .project dan .cproject tetap ada. Namun, folder .settings/ sebaiknya diabaikan.
+
+# --- VSCode Specific ---
+.vscode/
+*.code-workspace
+
+# --- STM32CubeMX Specific ---
+# Jangan abaikan .ioc karena ini adalah file konfigurasi utama
+*.mxproject
+# Backup files dari CubeMX
+*.bak
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Miscellaneous ---
+locker.txt
