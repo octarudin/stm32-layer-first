@@ -34,7 +34,7 @@ Repositori ini menggunakan folder `/Locker` sebagai jantung dari logika aplikasi
 * Framework: Clean Code for Embedded C/C++
 
 ## 🚀 Cara Penggunaan
-1. Clone: git clone https://github.com/octarudin/stm32-layer-first.git
+1. Clone: `git clone https://github.com/octarudin/stm32-layer-first.git`
 2. Setup: Buka melalui STM32CubeIDE atau VSCode.
 3. Build: Pastikan folder Locker sudah masuk ke dalam Include Paths di pengaturan compiler.
 
